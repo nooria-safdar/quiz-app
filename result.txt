@@ -1,0 +1,58 @@
+Name: nooria
+Score: 1/2
+Percentage: 50.0%
+----------------------
+Name: nooria
+Score: 1/2
+Percentage: 50.0%
+----------------------
+Name: nooria
+Score: 1/2
+Percentage: 50.0%
+----------------------
+RESULT: pass
+Name: nooria
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: fail
+Name: nooria
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: fail
+Name: noor
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: fail
+Name: nooria
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: fail
+Name: noori
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: fail
+Name: safdar
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: pass
+Name: nooria
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: pass
+Name: noor
+Score: 1/2
+Percentage: 50.0%
+----------------------
+RESULT: pass
+Name: C:\Users\dell\anaconda3\python.exe "c:/Users/dell/Desktop/quiz project/main.py"
+Score: 2/2
+Percentage: 100.0%
+----------------------
+RESULT: pass
